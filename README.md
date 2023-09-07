@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @serj1n1o
-- 👀 I’m interestin a computer programs and games, sports..
+- 👀 I’m interestin a computer programs and games, skiing, snowboard
 - 🌱 I’m currently learning a java developer
 - 💞️ I’m looking to collaborate on ...)
 - 📫 How to reach me: my email - serjiniobryukhanov@gmail.com
