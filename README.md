@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @serj1n1o
+- 👋 Hi, I’m Sergey Bryukhanov
 - 👀 I'm interesting a computer games, skiing, snowboard
 - 🌱 I’m currently learning a android developer
 - 💞️ I’m open to opportunities in Android development
